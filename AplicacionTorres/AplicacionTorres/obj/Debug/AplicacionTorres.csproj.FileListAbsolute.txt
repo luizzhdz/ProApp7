@@ -1,0 +1,9 @@
+C:\Users\LuiZz\Desktop\AplicacionTorres\AplicacionTorres\bin\Debug\AplicacionTorres.exe.config
+C:\Users\LuiZz\Desktop\AplicacionTorres\AplicacionTorres\bin\Debug\AplicacionTorres.exe
+C:\Users\LuiZz\Desktop\AplicacionTorres\AplicacionTorres\bin\Debug\AplicacionTorres.pdb
+C:\Users\LuiZz\Desktop\AplicacionTorres\AplicacionTorres\obj\Debug\AplicacionTorres.Form1.resources
+C:\Users\LuiZz\Desktop\AplicacionTorres\AplicacionTorres\obj\Debug\AplicacionTorres.Properties.Resources.resources
+C:\Users\LuiZz\Desktop\AplicacionTorres\AplicacionTorres\obj\Debug\AplicacionTorres.csproj.GenerateResource.Cache
+C:\Users\LuiZz\Desktop\AplicacionTorres\AplicacionTorres\obj\Debug\AplicacionTorres.exe
+C:\Users\LuiZz\Desktop\AplicacionTorres\AplicacionTorres\obj\Debug\AplicacionTorres.pdb
+C:\Users\LuiZz\Desktop\AplicacionTorres\AplicacionTorres\obj\Debug\AplicacionTorres.csprojResolveAssemblyReference.cache
